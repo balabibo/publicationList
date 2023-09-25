@@ -1,2 +1,2 @@
 # publicationList
-Research publication containing conference and journal articles
+The file contains my research publications including conference and journal articles.
